@@ -629,7 +629,7 @@ Navbar Area
   }
   .ferry-responsive-nav .ferry-responsive-menu.mean-container .navbar-nav {
     overflow-y: scroll;
-    height: 357px;
+    
     box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
   }
   .ferry-responsive-nav .mean-container a.meanmenu-reveal {
